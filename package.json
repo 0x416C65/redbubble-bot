@@ -1,0 +1,12 @@
+{
+  "name": "redbubble-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "python uploader.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
